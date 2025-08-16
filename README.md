@@ -1,4 +1,6 @@
 # Terracraft
+#### Game made with LÖVE (Lua framework for 2D games) as a final project for CS50x at the start of 10th grade.
+
 #### Video Demo:  https://www.youtube.com/watch?v=C2E_mI3biKk
 #### Description:
 ##### Terracraft is a third-person survival game in which the player avoids red circles floating towards them. The player can also attack the floating circles in order to etend their survival time. As the game progresses, the circles will get larger and faster, and they spawn in random locations, making it harder to survive. The player moves left and right with A and D, respectively. The player jumps with Space and exits screens with Esc. J attacks all enemies to the left of the player within a small range of y-values, and L attacks enemies on the right. The game starts when the player clicks the "Play Game" button and ends when the player presses Esc or gets touched by an enemy. Survival time is displayed in the top left.
